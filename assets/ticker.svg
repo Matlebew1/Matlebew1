@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="44" viewBox="0 0 900 44">
+  <rect width="900" height="44" rx="10" fill="#1c1917"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#fbbf24">
+    <g>
+      <text x="0" y="29" textLength="1000" lengthAdjust="spacing">Next.js · React · TypeScript · Tailwind · Supabase · PostgreSQL · Docker · Home Assistant · Hyperliquid · Playwright ·</text>
+      <text x="1020" y="29" textLength="1000" lengthAdjust="spacing">Next.js · React · TypeScript · Tailwind · Supabase · PostgreSQL · Docker · Home Assistant · Hyperliquid · Playwright ·</text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1020 0" dur="28s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
