@@ -1,4 +1,6 @@
-# Salut, moi c'est Mathieu 👋
+<p align="center"><img src="assets/banner.svg" alt="Salut, moi c'est Mathieu" width="100%"></p>
+
+<p align="center"><img src="assets/ticker.svg" alt="Technos" width="100%"></p>
 
 Développeur passionné, je construis mes propres outils : une application web pour la famille, un bot de trading et une maison connectée.
 
@@ -22,6 +24,8 @@ Développeur passionné, je construis mes propres outils : une application web p
 - Modules bébé, cycle, courses, maison, véhicule, wishlist, chat de foyer…
 - Notifications push, mode hors ligne (PWA)
 - ~1 900 commits et ~1 700 PR en 4 mois
+
+<p align="center"><img src="assets/apercu.gif" alt="Aperçu animé du site" width="560"></p>
 
 *Aperçus (données fictives) :*
 
@@ -48,6 +52,8 @@ Développeur passionné, je construis mes propres outils : une application web p
 |---|---|
 | <img src="images/lueurs.jpg" width="260"> | <img src="images/ricochet-laser.jpg" width="260"> |
 
+<p align="center"><img src="assets/rebond-neon.gif" alt="Rebond Néon en action" width="260"></p>
+
 **My Trading Bot** — Bot de trading crypto en TypeScript pour Hyperliquid
 - Stratégies extensibles (momentum, grille, carry delta-neutre)
 - Gestion du risque : stop loss, limite de perte quotidienne, kill switch
@@ -65,5 +71,7 @@ Développeur passionné, je construis mes propres outils : une application web p
 - Notes de décisions, brainstorms et backlog, mises à jour au fil de l'eau
 
 ---
+
+<p align="center"><img src="assets/wave.svg" alt="" width="100%"></p>
 
 *Ces repos sont privés, mais je peux en montrer des extraits ou une démo sur demande.*
